@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**dalunacrobate/Dalunacrobate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my Github Page ! I'm Dalunacrobate ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-Here are some ideas to get you started:
+<p> 
+  Visitors<br>
+  <img src="https://profile-counter.glitch.me/Dalunacrobate/count.svg" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me :
+
+- 🚀 French Python developper.
+- 💻 Passionate about Threat-Intelligence, Osint, reconnaissance.
+- 🔭 Currently working on <strong>DaProfiler</strong>
+- 🔍 Looking to collaborate on <strong>Osint Projects</strong>
+- ✉️ Mail **daluna_pro@protonmail.ch**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dalunacrobate&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
