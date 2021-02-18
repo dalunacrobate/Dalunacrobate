@@ -1,11 +1,6 @@
 
 # Welcome to my Github Page ! I'm Dalunacrobate ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-<p> 
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/Dalunacrobate/count.svg" />
-</p>
-
 ### About me :
 
 - 🚀 French Python developper.
