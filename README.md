@@ -3,7 +3,7 @@
 
 About me :
 - 🚀 French Python developper.
-- 💻 Passionate about Threat-Intelligence, Osint, reconnaissance.
+- 💻 Passionate about Osint, reconnaissance, Intelligence.
 - 🔭 Currently working on <strong>DaProfiler</strong>
 - 🔍 Looking to collaborate on <strong>Osint Projects</strong>
 
