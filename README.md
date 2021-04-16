@@ -19,8 +19,6 @@
 # My GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Dalunacrobate&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
 
-<br>
-
 # Overview
 <a href="https://github.com/dalunacrobate/BioIG"><img src="./pic/bioig.png" align="left" height="100"></a>
 <a href="https://github.com/dalunacrobate/DaProfiler"><img src="./pic/da.png" align="right" height="100"></a>
