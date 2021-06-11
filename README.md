@@ -10,5 +10,4 @@ About me :
 Contact :
 - ✉️ Mail **daluna_pro@protonmail.ch**
 
-<img src="https://discord.c99.nl/widget/theme-1/356186234583908352.png">
 <img src="https://github-readme-stats.vercel.app/api?username=Dalunacrobate&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
